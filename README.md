@@ -18,7 +18,8 @@ To compile the MP3 Tag Reader, follow these steps:
  1. C Progrmming Language
  2. Ubuntu
  3. Vim Editor
-**Acknowldgement**
 
-**Author**
-Hiregoudru Malegouda
+**Author**  
+Hiregoudru Malegouda  
+**Acknowldgement**  
+Emertxe Information Technologies Pvt. Ltd - for providing idea of this project
